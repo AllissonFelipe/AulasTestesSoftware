@@ -114,17 +114,6 @@ Folha do registro histórico
 - Local dos Testes
 - Critérios de Sucesso
 
-## Victor Anotações
-
-- **Aula 22/04/2025.**
-    
-    [gostosas.com.br](http://gostosas.com.br) (estudar depois).
-    
-    Funcional seria um carro, não funcional seria o carro que consome menos gasolina.
-    
-    [https://www.reddit.com/r/PedroDBR/comments/10l3lpd/carlinhos/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/PedroDBR/comments/10l3lpd/carlinhos/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-    
-
 ## Q.A. (Quality Assurance)
 
 - Prevenir problemas desde o início
